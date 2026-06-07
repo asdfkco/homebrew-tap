@@ -1,8 +1,8 @@
 class Multicode < Formula
   desc "Orchestrate multiple AI coding CLIs through configurable roles"
   homepage "https://github.com/asdfkco/multi_code"
-  url "https://github.com/asdfkco/multi_code/archive/refs/tags/v0.5.4.tar.gz"
-  sha256 "14861a01aeb0216d25ecb3829c80fa6712a40ca74b2cfddb4bd586f31cb88dd8"
+  url "https://github.com/asdfkco/multi_code/archive/refs/tags/v0.5.5.tar.gz"
+  sha256 "8e58aa2242468d3f2dcb6b5128514d697f400636c05373df2300292af57a1819"
   license "MIT"
 
   depends_on "rust" => :build
